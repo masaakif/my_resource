@@ -1,0 +1,6 @@
+emacs.font: 6x13
+XTerm*Scrollbar*thickness: 12
+XTerm*Scrollbar*background: white
+XTerm*Scrollbar*foreground: black
+XTerm*ttyModes: erase ^?
+XTerm*backarrowKey: false
